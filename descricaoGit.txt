@@ -1,0 +1,4 @@
+$ git config --global user.name "Fulano de Tal"
+git config --list
+q
+$ git config --global user.email fulanodetal@exemplo.br
